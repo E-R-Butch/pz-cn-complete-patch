@@ -1,0 +1,29 @@
+{
+ "ModernFirearmsSystem": {
+  "145Carton": ".145弹药盒",
+  "308Bullets": ".308弹药",
+  "50Carton": ".50弹药盒",
+  "545Carton": "5.45弹药盒",
+  "556Carton": ".556弹药盒",
+  "58Carton": "5.8弹药盒",
+  "9x19_Casing": "9×19弹壳",
+  "Aerosolbomb2": "气雾炸弹",
+  "AssaultRifle2": "突击步枪 II",
+  "HuntingRifle": "猎枪",
+  "MTL30_cat": "MTL30机枪",
+  "ScarH_cat": "SCAR-H步枪",
+  "TempNilItem": "占位物品",
+  "bolt": "枪机",
+  "part1_cat": "配件包 I",
+  "theMH_MkII_SFX1": "MH MkII消音版"
+ },
+ "VanillaFoodsExpanded": {
+  "Allspice": "多香果粉",
+  "Apricot": "杏子",
+  "BoxPumpkinSoupSachets": "南瓜汤料包盒",
+  "CannedSavoryMince": "肉酱罐头",
+  "CheddarBiscuit": "切达比司吉",
+  "ChickenThighs": "鸡腿肉",
+  "SourdoughStarter": "酸面团酵头"
+ }
+}

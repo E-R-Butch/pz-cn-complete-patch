@@ -1,0 +1,120 @@
+{
+  "ModernFirearmsSystem": {
+    "145Carton": ".145弹药盒",
+    "308Bullets": ".308弹药",
+    "50Carton": ".50弹药盒",
+    "545Carton": "5.45弹药盒",
+    "556Carton": ".556弹药盒",
+    "58Carton": "5.8弹药盒",
+    "9x19_Casing": "9×19弹壳",
+    "bolt": "枪机",
+    "HuntingRifle": "猎枪",
+    "AssaultRifle2": "突击步枪",
+    "Aerosolbomb2": "气雾炸弹",
+    "TempNilItem": "占位物品",
+    "part1_cat": "配件包1",
+    "theMH_MkII_SFX1": "MH MkII消音版",
+    "MTL30_cat": "MTL30机枪",
+    "ScarH_cat": "SCAR-H步枪",
+    "AmmoStraw40": ".40弹链",
+    "AmmoStraw45": ".45弹链",
+    "AmmoStraw556": ".556弹链",
+    "AmmoStraw762": "7.62弹链",
+    "AmmoStraw9mm": "9mm弹链",
+    "AmmoBox40": ".40弹药盒",
+    "AmmoBox45": ".45弹药盒",
+    "AmmoBox556": ".556弹药盒",
+    "AmmoBox762": "7.62弹药盒",
+    "AmmoBox9mm": "9mm弹药盒",
+    "AmmoBox50": ".50弹药盒",
+    "AmmoBox338": ".338弹药盒",
+    "AmmoBox545": "5.45弹药盒",
+    "AmmoBox58": "5.8弹药盒",
+    "AmmoBoxSmallPistol": "小口径手枪弹盒",
+    "AmmoBoxSmallRifle": "小口径步枪弹盒",
+    "AmmoBoxLargePistol": "大口径手枪弹盒",
+    "AmmoBoxLargeRifle": "大口径步枪弹盒",
+    "PrimerSmallPistol": "小手枪底火",
+    "PrimerSmallRifle": "小步枪底火",
+    "PrimerLargePistol": "大手枪底火",
+    "PrimerLargeRifle": "大步枪底火",
+    "GunpowderCanister": "火药罐",
+    "BulletPuller": "退弹器",
+    "ReloadingPress": "装弹压床",
+    "ReloadingPressKit": "装弹工具组",
+    "BrassTumbler": "弹壳清洗机",
+    "CaseTrimmer": "弹壳修边器",
+    "CaliperMeasure": "卡尺",
+    "ReloadingManual": "装弹手册",
+    "TracerPowder": "曳光剂",
+    "BulletMold": "弹头模具",
+    "LeadIngot": "铅锭",
+    "LubricantStick": "弹壳润滑脂",
+    "TumblerMedia": "清洗介质"
+  },
+  "VanillaFoodsExpanded": {
+    "Allspice": "多香果粉",
+    "Apricot": "杏子",
+    "BoxPumpkinSoupSachets": "南瓜汤料包盒",
+    "CannedSavoryMince": "肉酱罐头",
+    "CheddarBiscuit": "切达比司吉",
+    "ChickenThighs": "鸡腿肉",
+    "BoxOfCerealJars": "麦片罐盒",
+    "RiceNoodlesPack": "米粉袋",
+    "SourdoughStarter": "酸面团酵头",
+    "YeastPacket": "酵母粉包",
+    "VinegarBottle": "醋瓶",
+    "SugarBeet": "甜菜"
+  },
+  "OpenAllContainers": {
+    "OpenAllContainersKit": "开箱器"
+  },
+  "KI5campers": {
+    "KI5CamperKey": "房车钥匙",
+    "KI5CamperManual": "房车手册"
+  },
+  "ToadTraits": {
+    "ToadTraitMagazine": "蟾蜍天赋杂志",
+    "ToadTraitBook": "蟾蜍天赋书"
+  },
+  "VehicleRepairOverhaul": {
+    "VRORepairKit": "车辆维修套件",
+    "VROBodyPanel": "车身钣金件"
+  },
+  "VehicleSalvageOverhaulB42": {
+    "VSOSalvageKit": "车辆拆解套件",
+    "VSOScrapMetal": "碎金属",
+    "VSOWindowGlass": "车窗玻璃",
+    "VSOTireLever": "撬胎棒",
+    "VSOWreckingBar": "撬棍"
+  },
+  "Neat_Building": {
+    "NeatBuildPlan": "建筑规划图"
+  },
+  "SkillRecoveryJournal": {
+    "SkillRecoveryJournalItem": "技能恢复日志"
+  },
+  "LBB42": {
+    "LBLargeBag": "LB大背包"
+  },
+  "LDB42": {
+    "LDDuffelBag": "LD行囊包"
+  },
+  "LSB42": {
+    "LSSatchel": "LS挎包"
+  },
+  "RaccoonCityB42": {
+    "RCMapItem": "浣熊市地图"
+  },
+  "42_VSGirlBodySFW": {
+    "VSMakeupKit": "化妆套件",
+    "VSSkinToneCard": "肤色卡",
+    "VSHairPin": "发夹",
+    "VSDressBox": "礼服盒",
+    "VSOutfitTag": "服装标签",
+    "VSMirrorHand": "手持镜"
+  },
+  "GydeTraitMags": {
+    "GydeMagVolume2": "盖德天赋杂志·卷二"
+  }
+}
