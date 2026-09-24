@@ -2,7 +2,7 @@
 
 [Project Zomboid](https://store.steampowered.com/app/108600/Project_Zomboid/) **Build 42.20** 模组简体中文补全补丁。补齐社区三大汉化包（统一·中文汉化、统一·模组汉化、栀子的模组补充汉化）**未收录**的模组物品名。
 
-## 覆盖范围（388 条，15 个模组 100%）
+## 覆盖范围（381 条，24 个模组 100%）
 
 | 模组 | 条目数 | 说明 |
 |---|---|---|
@@ -55,6 +55,11 @@
 
 - Project Zomboid B42.20 专用服务器（Ubuntu 24.04 LXC，无头）
 - 与 51→49 模组共存的多人服务器配置实机验证，`SERVER STARTED`，无 mod 加载错误
+
+## 2026-09-24 更新
+
+- 新增 6 个 QOL/乐趣模组的汉化：Common Sense、Drag Bodies Faster、AutoLoot B42、Jeeve's QoL 系列（含 EngineParts/GunPlay/MapReveal）、True Music B42、True Music Jukebox
+- 服务器现有模组池已扩至 58 个
 
 ## License
 
