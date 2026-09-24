@@ -1,0 +1,35 @@
+"CN_Complete_Patch"
+{
+    "id"    "CN_Complete_Patch"
+    "type"  "mod"
+    "title" "CN Complete Patch 汉化补全补丁 (B42.20)"
+    "description"
+    "
+Community-made simplified Chinese completion patch for Project Zomboid Build 42.20.
+
+Covers 388 item-name translations missing from the three major CN packs (B42Trans_CN / B42ModTrans_CN / GardeniaTranslate_CN):
+
+- ModernFirearmsSystem (221): firearms, mags, ammo boxes, reloading gear
+- FantasyWorkshop VS42 4.0 (96): outfits, bags, chest rigs
+- VanillaFoodsExpanded (24): foods, containers
+- 42_VSGirlBodySFW (15), damnlib (23), and 10 more mods
+
+[b]Load Order[/b]
+Place AFTER all translation packs, at the end of your Mods list:
+...Spawn Location_CN;GardeniaTranslate_CN;B42ModTrans_CN;B42Trans_CN;CN_Complete_Patch
+
+[b]Format[/b]
+Standard B42 JSON translations (media/lua/shared/Translate/CN/ItemName.json, keys = Module.Item). No script overrides, safe with any mod list.
+
+[b]Source[/b]
+GitHub: see CN_Complete_Patch repository (translation source tables included).
+
+[b]更新说明[/b]
+简体中文补全补丁：补齐三大汉化包未收录的模组物品名，共 388 条（现代火器系统/幻想工坊/原版食物扩展等 15 个模组）。请放在所有汉化包之后加载。
+    "
+    "tag"   "Build 42"
+    "tag"   "Items"
+    "tag"   "Multiplayer"
+    "tag"   "qol"
+    "visibility" "public"
+}
